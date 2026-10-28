@@ -1,0 +1,391 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#container {
+  width: 100vw;
+  margin: 0 auto;
+  height: fit-content;
+}
+#top-nav {
+  background-image: url(Rectangle\ 1.png);
+  max-width: 100vw;
+  height: 700px;
+  background-size: cover;
+}
+#nav {
+  display: flex;
+  justify-content: end;
+  padding: 50px;
+  padding-right: 130px;
+  gap: 40px;
+  width: 100vw;
+}
+#text {
+  display: flex;
+  height: 100px;
+  gap: 40px;
+  padding: 10px;
+}
+button {
+  background-color: #f84646;
+  width: 91px;
+  height: 40px;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#nav-mid {
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+  padding-left: 120px;
+  gap: 6px;
+}
+.title {
+  font-size: 65px;
+  font-family: "Manrope", sans-serif;
+}
+.text2 {
+  width: 450px;
+  height: 95px;
+}
+.put {
+  width: 450px;
+  height: 60px;
+}
+#row {
+  height: 100px;
+}
+.put {
+  width: 300px;
+  height: 60px;
+  padding-left: 30px;
+  border: none;
+  border-radius: 10px;
+}
+.but {
+  background-image: url(Rectangle\ 3.png);
+}
+.nav-midcointaner {
+  width: 350px;
+  border-radius: 10px;
+  padding-right: 10px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+#hero {
+  width: 80%;
+  margin: auto;
+  padding: 60px;
+}
+#herobaby1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.text4 {
+  width: 600px;
+  height: 100px;
+  font-size: 20px;
+}
+#icondad {
+  display: none;
+}
+
+#icon {
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+}
+.icon {
+  width: 40px;
+  height: 5px;
+  background-color: black;
+}
+
+.text10 {
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.iconmeta {
+  width: 50px;
+  height: 50px;
+  display: flex;
+}
+.iconmeta2 {
+  width: 100px;
+  height: 100px;
+}
+.coll {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+
+  width: 300px;
+}
+#herobaby2 {
+  gap: 100px;
+  display: flex;
+  justify-content: center;
+}
+#box-mid {
+  background-color: #f84646;
+  width: 100vw;
+  height: 360px;
+}
+#mid-top {
+  padding: 40px;
+  padding-top: 60px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  gap: 10px;
+}
+.white {
+  color: white;
+}
+#leader {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px;
+  padding-top: 50px;
+}
+
+#baatar {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  gap: 50px;
+}
+#mid-bottom {
+  display: flex;
+  padding: 80px;
+  justify-content: space-evenly;
+}
+#Test {
+  line-height: 40px;
+  color: #808080;
+}
+#logos {
+  width: 100vw;
+  height: 650px;
+  background-color: #f4f5f7;
+}
+.title2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 30px;
+  padding: 50px;
+}
+#logo5 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+#logody {
+  display: flex;
+  gap: 20px;
+  padding: 30px;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+}
+.border-box1 {
+  width: 250px;
+  height: 110px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+}
+#Users {
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  align-items: center;
+  gap: 20px;
+  padding: 130px;
+}
+#red {
+  background-color: #f84646;
+  width: 150px;
+  height: 65px;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#lol {
+  width: 100vw;
+  height: 500px;
+  background-color: #f8464a;
+}
+#godfather {
+  width: 100vw;
+  height: 500px;
+}
+
+.textcolor {
+  font-size: 20px;
+  color: #808080;
+}
+#remake {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+}
+#mid-bottom img {
+  height: 550px;
+}
+#last-section {
+  width: 100vw;
+  height: 550px;
+  background-color: #f8464a;
+  padding: 50px;
+  padding-top: 80px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+#joker {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 200px;
+}
+.colorwhite {
+  color: #f4f5f7;
+  font-size: 30px;
+}
+.cologray {
+  color: #808080;
+  font-size: 20px;
+}
+#last2 {
+  display: flex;
+  justify-content: space-between;
+}
+#jokerbeta {
+  display: flex;
+  justify-content: space-between;
+
+  margin: 60px;
+}
+.colorwhite2 {
+  color: white;
+  font-size: 20px;
+}
+@media (max-width: 500px) {
+  #text {
+    display: none;
+  }
+  #icondad {
+    display: flex;
+  }
+  #nav {
+    justify-content: space-between;
+    padding: 10px;
+  }
+  #nav-mid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+  }
+  .title {
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+  #top-nav {
+    height: 400px;
+  }
+  .text2 {
+    font-size: 15px;
+  }
+  .text4 {
+    width: 300px;
+    height: 40px;
+  }
+  #herobaby2 {
+    flex-wrap: wrap;
+    padding-top: 100px;
+  }
+  #box-mid {
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 450px;
+  }
+  #mid-top {
+    font-size: 20px;
+    height: 200px;
+    width: 400px;
+  }
+  #leader {
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+  }
+  #mid-bottom {
+    flex-direction: column-reverse;
+    justify-content: center;
+    width: 450px;
+    align-items: center;
+    padding: 10 px;
+    gap: 10px;
+  }
+  #mid-bottom img {
+    width: 400px;
+    height: 400px;
+  }
+  #baatar {
+    width: 300px;
+  }
+  #logody {
+    flex-direction: column;
+  }
+  #logos {
+    height: fit-content;
+  }
+
+  #Users {
+    padding: 10px;
+    width: 400px;
+  }
+  #remake {
+    padding: 0;
+  }
+  #last2 {
+    flex-wrap: wrap;
+  }
+  #last-section {
+    height: fit-content;
+  }
+  #jokerbeta {
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    margin: 20px;
+    gap: 10px;
+  }
+}
